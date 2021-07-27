@@ -1,0 +1,9 @@
+c:\users\utku\documents\visual studio 2015\Projects\QuickEncrypt\QuickEncrypt\bin\Debug\QuickEncrypt.exe.config
+c:\users\utku\documents\visual studio 2015\Projects\QuickEncrypt\QuickEncrypt\bin\Debug\QuickEncrypt.exe
+c:\users\utku\documents\visual studio 2015\Projects\QuickEncrypt\QuickEncrypt\bin\Debug\QuickEncrypt.pdb
+c:\users\utku\documents\visual studio 2015\Projects\QuickEncrypt\QuickEncrypt\obj\Debug\QuickEncrypt.csprojResolveAssemblyReference.cache
+c:\users\utku\documents\visual studio 2015\Projects\QuickEncrypt\QuickEncrypt\obj\Debug\QuickEncrypt.exe
+c:\users\utku\documents\visual studio 2015\Projects\QuickEncrypt\QuickEncrypt\obj\Debug\QuickEncrypt.pdb
+C:\Users\Utku\documents\visual studio 2015\Projects\QuickEncrypt\QuickEncrypt\obj\Debug\QuickEncrypt.Encrypt.resources
+C:\Users\Utku\documents\visual studio 2015\Projects\QuickEncrypt\QuickEncrypt\obj\Debug\QuickEncrypt.csproj.GenerateResource.Cache
+C:\Users\Utku\documents\visual studio 2015\Projects\QuickEncrypt\QuickEncrypt\obj\Debug\QuickEncrypt.Decrypt.resources
