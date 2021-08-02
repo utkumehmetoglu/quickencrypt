@@ -21,6 +21,11 @@ namespace QuickEncrypt
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if (textBox1.Text.Equals(textBox3.Text))
+            {
+                MessageBox.Show("Output name should not be same as the input name\nTry changing them", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             EncryptionProvider enc = new EncryptionProvider();
             try
             {
@@ -39,8 +44,15 @@ namespace QuickEncrypt
         {
             textBox1.Text = Filename;
             Outname = Filename;
-            Outname.Remove(Outname.Length - 3);
+            String check = Outname.Substring(Math.Max(0, Outname.Length - 4));
+            if (check.Equals(".aes"))
+            {
+                Outname = Outname.Remove(Outname.Length - 4);
+            }
+            
             textBox3.Text = Outname;
+            
+            
         }
     }
 }
